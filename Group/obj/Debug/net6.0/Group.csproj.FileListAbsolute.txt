@@ -1,0 +1,15 @@
+C:\Users\27766\Desktop\c#\Group\Group\bin\Debug\net6.0\Group.exe
+C:\Users\27766\Desktop\c#\Group\Group\bin\Debug\net6.0\Group.deps.json
+C:\Users\27766\Desktop\c#\Group\Group\bin\Debug\net6.0\Group.runtimeconfig.json
+C:\Users\27766\Desktop\c#\Group\Group\bin\Debug\net6.0\Group.dll
+C:\Users\27766\Desktop\c#\Group\Group\bin\Debug\net6.0\Group.pdb
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.csproj.AssemblyReference.cache
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.AssemblyInfoInputs.cache
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.AssemblyInfo.cs
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.csproj.CoreCompileInputs.cache
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.dll
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\refint\Group.dll
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.pdb
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\Group.genruntimeconfig.cache
+C:\Users\27766\Desktop\c#\Group\Group\obj\Debug\net6.0\ref\Group.dll
